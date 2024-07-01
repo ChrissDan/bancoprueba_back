@@ -1,0 +1,15 @@
+api_rest_backend\bancoprueba\model\Movimiento.class
+api_rest_backend\bancoprueba\model\User.class
+api_rest_backend\bancoprueba\BancopruebaApplication.class
+api_rest_backend\bancoprueba\controller\ClienteController.class
+api_rest_backend\bancoprueba\model\Cliente.class
+api_rest_backend\bancoprueba\configuration\WebConfig.class
+api_rest_backend\bancoprueba\repository\UserRepository.class
+api_rest_backend\bancoprueba\exceptions\ResourceNotFoundException.class
+api_rest_backend\bancoprueba\service\ClienteService.class
+api_rest_backend\bancoprueba\repository\MovimientoRepository.class
+api_rest_backend\bancoprueba\service\MovimientoService.class
+api_rest_backend\bancoprueba\repository\ClienteRepository.class
+api_rest_backend\bancoprueba\service\UserService.class
+api_rest_backend\bancoprueba\configuration\WebConfig$1.class
+api_rest_backend\bancoprueba\controller\UserController.class

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\BancopruebaApplication.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\configuration\WebConfig.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\controller\ClienteController.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\controller\UserController.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\exceptions\ResourceNotFoundException.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\model\Cliente.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\model\Movimiento.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\model\User.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\repository\ClienteRepository.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\repository\MovimientoRepository.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\repository\UserRepository.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\service\ClienteService.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\service\MovimientoService.java
+C:\Users\Admin\Desktop\bancoprueba\bancoprueba\src\main\java\api_rest_backend\bancoprueba\service\UserService.java
